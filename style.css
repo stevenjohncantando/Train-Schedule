@@ -1,0 +1,25 @@
+body {
+    background-color: darkgray;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url(https://digitalhealthinvestor.com/x/cdn/?https://images.unsplash.com/photo-1504388664877-c025f9f197e9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=eea4ea69e7535712a30c7ab6929e3e68);
+    background-repeat: repeat-x;
+    color: white;
+    font-family: 'Megrim', cursive;
+}
+
+#bodyContent, .table, th {
+    font-family: 'Fira Mono', monospace;
+}
+
+th {
+    color: whitesmoke;
+}
+
